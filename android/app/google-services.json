@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "945655105377",
+    "project_id": "athar-b2247",
+    "storage_bucket": "athar-b2247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945655105377:android:0fb5ff81accfe78059a720",
+        "android_client_info": {
+          "package_name": "com.example.athar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCawuHpel4IR5Ftacil9WTQdY4MGtUfOfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945655105377:android:993ca4ac28de74ef59a720",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCawuHpel4IR5Ftacil9WTQdY4MGtUfOfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
